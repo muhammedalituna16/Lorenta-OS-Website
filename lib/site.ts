@@ -8,7 +8,7 @@ export const siteConfig = {
   url: "https://lorentaos.com",
   tagline: "Run your business on autopilot.",
   description:
-    "The cognitive operating system for autonomous enterprises. Native integration with Logo, and Mikro. Closed-loop architecture, KVKK and EU AI Act compliant.",
+    "The cognitive operating system for autonomous enterprises. Closed-loop architecture, KVKK and EU AI Act compliant.",
   positioning: "The Cognitive Operating System for Autonomous Enterprises",
 
   // Sosyal

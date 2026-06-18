@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "LorentaOS — The Cognitive Operating System for Autonomous Enterprises";
+export const alt = "LorentaOS";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -82,8 +82,7 @@ export default function OgImage() {
               maxWidth: 640,
             }}
           >
-            The cognitive operating system for autonomous enterprises. Native
-            integration with Logo, and Mikro.
+            The cognitive operating system for autonomous enterprises.
           </p>
         </div>
 

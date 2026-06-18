@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "LorentaOS — The Cognitive Operating System for Autonomous Enterprises";
+export const alt = "LorentaOS";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
